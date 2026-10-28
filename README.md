@@ -77,4 +77,4 @@ Logistic Regression and Random Forest models were also trained under the same bu
 
 ## 👤 Contributor
 
-**Karishma Singh** ([@karishmas0](https://github.com/karishmas0))
+**Priyanka Choudhary** ([@priyankac227](https://github.com/priyankac227))
